@@ -1,6 +1,7 @@
 ## Hiii, my name is Matias 👋
 
-### I'm a 3D modeling student. I still have a lot to learn but I want
+### I'm a 3D modeling student. I still have a lot to learn but I want.
+### I'm 20 years old and i live in Barcelona. I want to be a 3D modeler in zbrush for video game characters
 
 ----
 
@@ -11,6 +12,16 @@
 - Photoshop
 
 ----
+
+### I consider that I have skills when it comes to:
+- Drawing in digital
+- Modelate organic figures in ZBrush
+- Color the drawings correctly, using color harmony
+- Retopology
+- Animation
+
+----
+
 
 <!--
 **MatiasAcostaBlanco2A/MatiasAcostaBlanco2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
