@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hiii, my name is Matias 👋
+
+### I'm a 3D modeling student
+
 
 <!--
 **MatiasAcostaBlanco2A/MatiasAcostaBlanco2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
