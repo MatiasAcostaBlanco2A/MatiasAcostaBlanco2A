@@ -10,6 +10,7 @@
 - Maya
 - 3DS Max
 - Photoshop
+- https://img.shields.io/badge/Photoshop-DDDDDD?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&labelColor=232323
 
 ----
 
